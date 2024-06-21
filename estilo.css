@@ -3,26 +3,26 @@
 	padding: 0;
 }
 #topo{
-	height: 70px;
-	background: black;
+	height: 80px;
+	background: #00FFFF;
 }
 #menu{
-	background-color: rgba(black);
+	background-color: rgba(#0000FF);
 }
 #menu ul, li{
 	display: inline-table;
-	padding: 20px 30px;
+	padding: 40px 30px;
 	cursor: pointer;
 }
 #menu ul li a{
 	text-decoration: nome;
-	color: white;
+	color: #00BFFF;
 }
 #menu ul li:hover{
-	background-color: rgba(orange);
+	background-color: rgba(#FF00FF);
 }
 #conteudo{
-	background-color: black;
+	background-color: #00FA9A;
 	min-height: 50px;
 }
 #slider {
